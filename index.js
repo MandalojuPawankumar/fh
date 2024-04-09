@@ -19,14 +19,9 @@ root.render(
          </div>
          </div>
             <div className='profile'>
-          <a href='#'>
-           <div className='login'>
-            <i className='fa-solid fa-user'>login</i>
-            </div>
-            <div className='cart'>
-            <i className='fa-solid fa-user'>cart</i>
-            </div>
-
+          <a href='#'> 
+           <span class="material-symbols-outlined">person</span>
+           <span class="material-symbols-outlined">shopping_cart</span>
          </a>  
          </div>
          </div>
